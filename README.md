@@ -13,7 +13,7 @@
 
 - PHP >= 8.0
 
-- Laravel 6 / 7 / 8 
+- Laravel 6 / 7 / 8 / 9 / 10
 
 ## Installation
 

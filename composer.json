@@ -1,5 +1,5 @@
 {
-    "name": "authentik/eloquent-cache",
+    "name": "mrdilbaz/model-cache",
     "description": "Easily cache your Laravel's Eloquent models",
     "license": "GPL-3.0-only",
     "keywords": [
@@ -10,10 +10,10 @@
         "cache"
     ],
     "require": {
-        "php": ">=7.2",
-        "illuminate/cache": "^6.0 || ^7.0 || ^8.0 || ^9.0",
-        "illuminate/database": "^6.0 || ^7.0 || ^8.0 || ^9.0",
-        "illuminate/support": "^6.0 || ^7.0 || ^8.0 || ^9.0"
+        "php": ">=8.3",
+        "illuminate/cache": "^6.0 || ^7.0 || ^8.0 || ^9.0 || ^10.0",
+        "illuminate/database": "^6.0 || ^7.0 || ^8.0 || ^9.0 || ^10.0",
+        "illuminate/support": "^6.0 || ^7.0 || ^8.0 || ^9.0 || ^10.0"
     },
     "require-dev": {
         "orchestra/testbench": "~6.0",

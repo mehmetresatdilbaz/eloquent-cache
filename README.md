@@ -9,9 +9,11 @@
 
 ## Requirements
 
-- PHP >= 7.2
+- Added support for php 8 and laravel 10
 
-- Laravel 6 / 7 / 8
+- PHP >= 8.0
+
+- Laravel 6 / 7 / 8 
 
 ## Installation
 
